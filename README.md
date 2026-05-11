@@ -10,8 +10,6 @@
 
 ## 📖 About me
 
-<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/manga-wave.png" width="200px" />
-
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas (Período Noturno).
 - 🐍 Apaixonado por Python, Lógica e automação.
 - 👨‍💻 Em busca de uma oportunidade de estágio em tecnologia.
