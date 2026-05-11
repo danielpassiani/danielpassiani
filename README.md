@@ -32,10 +32,10 @@
 
 <p align="center">
   <a href="https://github.com/danielpassiani/python-logic-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=python-logic-practice&theme=tokyonight" alt="Sistema de Monitoramento de Rotas" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=python-logic-practice&theme=tokyonight&v=1" alt="Sistema de Monitoramento de Rotas" width="48%" />
   </a>
   <a href="https://github.com/danielpassiani/meus-prompts-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=meus-prompts-copilot&theme=tokyonight" alt="Meus Prompts Copilot" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=meus-prompts-copilot&theme=tokyonight&v=1" alt="Meus Prompts Copilot" width="48%" />
   </a>
 </p>
 
