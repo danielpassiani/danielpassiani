@@ -45,6 +45,6 @@ Lógica pura em Python para validar quilometragem de frotas. 100% "na mão", sem
 ## 📫 Where you can find me
 
 <p align="center">
-  <a href="www.linkedin.com/in/daniel-passiani-76a408289/"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/daniel-passiani-76a408289/"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:danielpassiani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
