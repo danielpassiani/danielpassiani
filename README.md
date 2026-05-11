@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/frieren-banner.png" alt="Frieren Beyond Journey's End Github Banner" width="100%">
+  <img src="assets/frieren-banner.png" alt="Frieren Beyond Journey's End Github Banner" width="350">
 </p>
 
 <h1 align="center">Oi, eu sou o Daniel. 👋</h1>
