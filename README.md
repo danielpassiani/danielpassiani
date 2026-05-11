@@ -34,11 +34,16 @@
 
 <p align="center">
   <a href="https://github.com/danielpassiani/python-logic-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=python-logic-practice&theme=tokyonight" alt="Sistema de Monitoramento de Rotas" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=python-logic-practice&theme=tokyonight" alt="Sistema de Monitoramento de Rotas" width="48%" />
+  </a>
+  <a href="https://github.com/danielpassiani/meus-prompts-copilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=meus-prompts-copilot&theme=tokyonight" alt="Meus Prompts Copilot" width="48%" />
   </a>
 </p>
 
-Lógica pura em Python para validar quilometragem de frotas. 100% "na mão", sem IA.
+**🚗 Sistema de Monitoramento de Rotas (SMR):** Lógica pura em Python para validar quilometragem de frotas. Desenvolvido 100% "na mão", sem recurso a IA.
+
+**🤖 Prompts Estruturados para Copilot:** Conjunto de prompts desenhados para adaptar assistentes de código a um fluxo de trabalho de alta eficiência. O foco é acelerar o desenvolvimento, garantir a qualidade do código e potenciar a aprendizagem ativa em Análise e Desenvolvimento de Sistemas.
 
 ---
 
