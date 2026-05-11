@@ -32,14 +32,13 @@
 
 ## 💡 Project Highlights
 
-Você pode criar cards simples usando HTML. Substitua o texto e os links.
-
-### **[Sistema de Monitoramento de Rotas (SMR)]**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/project-highlight-smr.png" width="300px" />
+  <a href="https://github.com/danielpassiani/python-logic-practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielpassiani&repo=python-logic-practice&theme=tokyonight" alt="Sistema de Monitoramento de Rotas" />
+  </a>
 </p>
+
 Lógica pura em Python para validar quilometragem de frotas. 100% "na mão", sem IA.
-<a href="https://github.com/danielpassiani/python-logic-practice"><img src="https://img.shields.io/badge/View%20Project-0e75b6?style=flat" alt="View Project" /></a>
 
 ---
 
