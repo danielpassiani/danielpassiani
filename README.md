@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Daniel Passiani</b> · Frontend or full-stack engineer<br/>
+  <b>Daniel Passiani</b> · Full-stack engineer<br/>
   <sub>"Hello World!" Estudante de Análise e Desenvolvimento de Sistemas. Foco em Python, JS e SQL.</sub>
 </p>
 
