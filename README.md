@@ -1,51 +1,68 @@
 <p align="center">
-  <img src="assets/frieren-banner.png" alt="Frieren Beyond Journey's End Github Banner" width="60%">
+  <img src="https://www.gitskins.com/api/section/hero?username=danielpassiani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279829992%3Fu%3Db6520c0c779e8dee1d39976beee877718ddf46be%26v%3D4" alt="danielpassiani hero visual" />
 </p>
 
-<h1 align="center">Oi, eu sou o Daniel. 👋</h1>
+<p align="center"><b>Daniel Passiani</b> · Full-stack engineer<br/><sub>&quot;Hello World!&quot; Estudante de Análise e Desenvolvimento de Sistemas. Foco em Python, JS e SQL.</sub></p>
+
+<p align="center"><a href="https://github.com/danielpassiani">GitHub</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danielpassiani&label=Profile%20Views&color=0e75b6&style=flat" alt="danielpassiani" />
+  <img src="https://www.gitskins.com/api/section/projects?username=danielpassiani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279829992%3Fu%3Db6520c0c779e8dee1d39976beee877718ddf46be%26v%3D4" alt="danielpassiani projects visual" />
 </p>
 
-## 📖 About me
+- [python-logic-practice](https://github.com/danielpassiani/python-logic-practice) · ★ 2 — Exercícios e projetos práticos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistema
+- [meus-prompts-copilot](https://github.com/danielpassiani/meus-prompts-copilot) · ★ 2 — Lista de prompts personalizados que criei pensando em pair programming. Cada um com um objetivo dife
+- [peconha-fmu-tech](https://github.com/danielpassiani/peconha-fmu-tech) · ★ 1 — Aplicativo voltado à informação, prevenção de acidentes e conscientização sobre animais peçonhentos 
+- [inimigos-do-fim-srs](https://github.com/danielpassiani/inimigos-do-fim-srs) · ★ 1 — Documentação de Requisitos (SRS), Modelagem de Banco de Dados (DER) e Mapeamento de Processos (BPMN)
+- [snake-game](https://github.com/danielpassiani/snake-game) · ★ 1
+- [danielpassiani](https://github.com/danielpassiani/danielpassiani) · ★ 1 — Um pouquinho sobre mim. ☃️
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas (Período Noturno).
-- 🐍 Apaixonado por Python, Lógica e automação.
-- 👨‍💻 Em busca de uma oportunidade de estágio em tecnologia.
-- 🎨 Adoro misturar design profissional com a minha paixão por mangás e animes.
+</details>
 
----
-
-## 🛠️ My Tech Stack
-
-| Languages | Frameworks | Tools |
-|---|---|---|
-| ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) | ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | | ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) |
-| ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql) | | ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code) |
-| ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) | ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) | |
-
----
-
-## 💡 Project Highlights
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/danielpassiani/python-logic-practice">
-  </a>
-  <a href="https://github.com/danielpassiani/meus-prompts-copilot">
-  </a>
+  <img src="https://www.gitskins.com/api/section/stack?username=danielpassiani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279829992%3Fu%3Db6520c0c779e8dee1d39976beee877718ddf46be%26v%3D4" alt="danielpassiani stack visual" />
 </p>
 
-**🚗 Sistema de Monitoramento de Rotas (SMR):** Lógica pura em Python para validar quilometragem de frotas. Desenvolvido 100% "na mão", sem recurso a IA.
+</details>
 
-**🤖 Prompts Estruturados para Copilot:** Conjunto de prompts desenhados para adaptar assistentes de código a um fluxo de trabalho de alta eficiência. O foco é acelerar o desenvolvimento, garantir a qualidade do código e potenciar a aprendizagem ativa em Análise e Desenvolvimento de Sistemas.
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
----
-
-## 📫 Where you can find me
+<b>10</b> public repositories, <b>8</b> stars, <b>91</b> contributions in the last year, a longest streak of <b>4</b> days and <b>13</b> followers.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-passiani-76a408289/"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:danielpassiani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://www.gitskins.com/api/section/stats?username=danielpassiani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279829992%3Fu%3Db6520c0c779e8dee1d39976beee877718ddf46be%26v%3D4" alt="danielpassiani stats visual" />
 </p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=danielpassiani&theme=neon" alt="danielpassiani contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=danielpassiani&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F279829992%3Fu%3Db6520c0c779e8dee1d39976beee877718ddf46be%26v%3D4" alt="danielpassiani social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Daniel Passiani · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
